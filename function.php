@@ -10,5 +10,11 @@ function sottrazione (m1,m2){
   return m1-m2;
 }
 
+/* moltiplicazione */
+function moltiplicazione (m1,m2){
+  return m1*m2;
+}
+
+
 
 ?>
