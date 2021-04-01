@@ -15,6 +15,15 @@ function moltiplicazione (m1,m2){
   return m1*m2;
 }
 
+/* divisione2 */
+function  divisione2 (m1,m2){
+  if (m2!== 0;){
+    return m1/m2;
+  }
+  else{
+    return "error";
+  }
+}
 
 
 ?>
